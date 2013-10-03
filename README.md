@@ -15,13 +15,13 @@ Python distributed web crawling scraper
 2) Launch the server on the **master** node
 
 ~~~ sh
-pyhton server.py
+python server.py
 ~~~
 
 3) Launch the client on the **working** nodes
 
 ~~~ sh
-pyhton client.py
+python client.py
 ~~~
     
 ##References
